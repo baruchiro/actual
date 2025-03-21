@@ -56,7 +56,6 @@ import {
   fullSync,
   setSyncingMode,
   clearFullSyncTimeout,
-  resetSync,
 } from './sync';
 import { app as syncApp } from './sync/app';
 import * as syncMigrations from './sync/migrate';
